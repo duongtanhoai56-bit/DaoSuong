@@ -1,0 +1,22 @@
+{
+  "name": "Game.Gameplay.EditModeTests",
+  "rootNamespace": "Game.Gameplay.Tests",
+  "references": [
+    "Game.Core",
+    "Game.Gameplay",
+    "Game.Network"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": false,
+  "versionDefines": [],
+  "noEngineReferences": false,
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ]
+}

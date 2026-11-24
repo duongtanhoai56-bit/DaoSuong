@@ -1,0 +1,22 @@
+{
+  "name": "Game.Network",
+  "rootNamespace": "Game.Network",
+  "references": [
+    "Game.Core",
+    "Game.Gameplay",
+    "Unity.Netcode.Runtime",
+    "Unity.Services.Core",
+    "Unity.Services.Authentication",
+    "Unity.Services.Multiplayer",
+    "Unity.Services.Vivox"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
